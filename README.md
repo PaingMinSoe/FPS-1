@@ -101,6 +101,9 @@ Please make sure to update tests as appropriate.
 +text in green
 !text in orange
 #text in grey
+
+< Red
+> Green
 ```
 
 ```diff
